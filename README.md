@@ -56,8 +56,4 @@ Training exclusively on release frames (~2,100 examples) optimizes for the speci
 
 NFL Player Tracking Data (2023 season)
 
-## Acknowledgments
-
-We would like to thank the University of Georgia Football Team's coaches, players, and sports scientists for their insight on the value of RTS. Special thanks to Smit Bajaj, Cole Jacobson, and Sam Bruchhaus for their advice and inspiration on the technical and visual aspects of this project.
-
 ---
