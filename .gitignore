@@ -1,0 +1,2 @@
+data/raw/analytics/*.csv
+data/raw/analytics/train/*.csv
