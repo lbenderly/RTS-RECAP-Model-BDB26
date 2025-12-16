@@ -39,13 +39,13 @@ Training exclusively on release frames (~2,100 examples) optimizes for the speci
 ```
 ├── code/
 │   ├── recap_model_code.ipynb              # Main model training notebook
-│   ├── completion_probability_visualizer.py # Completion probability visualization
-│   ├── model_demonstration_visualizer.py    # Model demonstration tools
+│   ├── completion_probability_visualizer.py # Completion probability heatmap visualization
+│   ├── model_demonstration_visualizer.py    # Spatial Model demonstration tools
 │   ├── qb_wr_chemistry_analysis.py          # QB-WR pair analysis
-│   ├── rss_evaluation_pipeline.py           # RTS evaluation pipeline
+│   ├── rss_evaluation_pipeline.py           # RTS play evaluation pipeline
 │   ├── rts_postprocessing.py                # RTS score calculation
 │   └── rts_validation_analysis.py           # Validation metrics
-├── data/                                     # Raw and processed tracking data
+├── data/                                     # Raw tracking data
 ├── results/                                  # Model outputs and RTS leaderboards
 ├── visualizations/                           # Play breakdowns and film analysis
 └── recap_model.pt                            # Trained RECAP model weights
