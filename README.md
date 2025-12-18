@@ -4,6 +4,7 @@
 University Track submission for the 2025 NFL Big Data Bowl (University of Georgia)
 
 ---
+Write up can be found here: https://kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/new-writeup-1765681384736
 
 ## Overview
 
